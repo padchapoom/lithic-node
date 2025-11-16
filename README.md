@@ -1,4 +1,4 @@
-# Lithic Node API Library
+~TRN-9876543210# Lithic Node API Library
 
 [![NPM version](https://img.shields.io/npm/v/lithic.svg)](https://npmjs.org/package/lithic) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/lithic)
 
